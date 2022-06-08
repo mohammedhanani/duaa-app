@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "537900222453",
+    "firebase_url": "https://android-test-9bf00.firebaseio.com",
+    "project_id": "android-test-9bf00",
+    "storage_bucket": "android-test-9bf00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537900222453:android:51eaadcdfc5ef70f5f02bc",
+        "android_client_info": {
+          "package_name": "com.adrenoffeine.app.duaaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537900222453-srk64m9br95bfq1mj668iausamsjvk5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM9JQHjJ2qU3zE2FU7B20deyFLWjxFXfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537900222453-srk64m9br95bfq1mj668iausamsjvk5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
